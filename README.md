@@ -33,5 +33,12 @@
 ![Image](https://github.com/user-attachments/assets/2239be17-be6d-470e-8de7-43ce6ed9ebdb)
 
 
+![Image](https://github.com/user-attachments/assets/d9ad7f07-5df6-464f-925d-423fbace0c36)
+
+**CMDB:**
+
+
+
+
 
 
