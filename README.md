@@ -11,3 +11,23 @@
 **High level architecture: ServiceNow Integration**
 
 <img width="477" alt="Image" src="https://github.com/user-attachments/assets/b8e89921-23da-4a0f-940c-a703a3b670cf" />
+
+**Incident Management Integration – What you get**
+
+•	Create incidents automatically via Zenoss triggers/notifications.
+
+•	Create incidents manually via event console
+
+•	Resolve incident when corresponding event is closed
+
+•	Resolve incident when corresponding event clears automatically
+
+•	Assign the incident to the user acknowledging the event
+
+•	Acknowledge event when corresponding incident is assigned
+
+•	Close event when corresponding incident is resolved
+
+•	Associate existing events with existing incident
+
+
