@@ -30,4 +30,8 @@
 
 •	Associate existing events with existing incident
 
+![Image](https://github.com/user-attachments/assets/2239be17-be6d-470e-8de7-43ce6ed9ebdb)
+
+
+
 
